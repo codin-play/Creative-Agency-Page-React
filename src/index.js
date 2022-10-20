@@ -5,6 +5,8 @@ import { BrowserRouter as Router, Route } from 'react-router-dom'
 import './style.css'
 import Home from './views/home'
 
+// something rad is here.
+
 const App = () => {
   return (
     <Router>
